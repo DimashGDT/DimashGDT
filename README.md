@@ -1,8 +1,7 @@
 ### Hi there, I'm Zhamshit Dinmukhammed 👋
 
 #### 🚀 About Me
-I'm passionate about machine learning, computer vision, and applied research. I enjoy designing UAV airframes and building practical AI systems, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
-
+I'm passionate about machine learning, computer vision, and applied research. I enjoy building practical AI systems and designing UAV airframes, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
 ---
 
 ### 🛠️ Core Stack & Technologies
