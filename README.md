@@ -1,9 +1,7 @@
 ### Hi there, I'm Zhamshit Dinmukhammed 👋
 
 #### 🚀 About Me
-* I'm an AI engineering student passionate about machine learning, deep learning, and applied research.
-* 🤖 I'm deeply interested in **Computer Vision**, **LLMs, and autonomous agents** and their real-world applications in **robotics, UAVs, and embedded systems**.
-* ✈️ I am very passionate about aerospace engineering and intelligent flight systems.
+I'm passionate about machine learning, computer vision, and applied research. I enjoy designing UAV airframes and building practical AI systems, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
 
 ---
 
@@ -21,14 +19,16 @@
 ---
 
 ### 📊 Core Interests & Research Areas
-* 👁️ **Computer Vision & Robotics:** Integrating vision models, object detection, and perception with embedded systems and UAVs.
-* 🤖 **LLMs & Autonomous Agents:** Building intelligent agents, reasoning loops, and automated workflows.
-* 🔬 **Machine Learning & Deep Learning:** Conducting applied research and developing data-driven architectures.
-* ⚙️ **Systems & Performance:** Writing efficient low-level and scripted logic using C/C++, Python, and Bash.
+* 👁️ **Computer Vision & Perception:** Utilizing object detection and vision models for real-time tracking in flight.
+* ✈️ **UAV Design & Aerospace:** Constructing custom airframes and integrating flight control hardware.
+* 🤖 **Autonomous Agents & LLMs:** Implementing intelligent agents and automated decision-making loops for robotics.
+* 🧠 **Data-Driven Problem Solving:** Tackling algorithmic challenges and competitive programming (2025 ICPC 1/4 Finalist).
 
 ---
 
 ### 🌐 Connect with Me
-* **GitHub:** [@your-username](https://github.com/your-username)
 * **LinkedIn:** [Zhamshit Dinmukhammed](https://linkedin.com/in/your-profile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Telegram:** [@Dimmashhh](https://t.me/Dimmashhh)
+* **LeetCode:** [Dimash151025](https://leetcode.com/u/Dimash151025/)
+* **Codeforces:** [DimashHHHH](https://codeforces.com/profile/DimashHHHH)
+* **Email:** dimash28062006@gmail.com
