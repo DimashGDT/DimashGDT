@@ -1,7 +1,8 @@
 ### Hi there, I'm Zhamshit Dinmukhammed 👋
 
-#### 🚀 About Me
-I'm passionate about machine learning, computer vision, and applied research. I enjoy building practical AI systems and designing UAV airframes, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
+🎓 AI & Data Science Student
+I'm passionate about computer vision, machine learning, algorithms, and applied research. I enjoy building practical AI systems and designing UAV airframes, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
+
 ---
 
 ### 🛠️ Core Stack & Technologies
@@ -20,8 +21,8 @@ I'm passionate about machine learning, computer vision, and applied research. I 
 
 ### 📊 Core Interests & Research Areas
 * 👁️ **Computer Vision & Perception:** Utilizing object detection and vision models for real-time tracking in flight.
-* ✈️ **UAV Design & Aerospace:** Constructing custom airframes and integrating flight control hardware.
 * 🤖 **Autonomous Agents & LLMs:** Implementing intelligent agents and automated decision-making loops for robotics.
+* ✈️ **UAV Design & Aerospace:** Constructing custom airframes and integrating flight control hardware.
 * 🧠 **Data-Driven Problem Solving:** Tackling algorithmic challenges and competitive programming (2025 ICPC 1/4 Finalist).
 
 ---
