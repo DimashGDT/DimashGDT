@@ -13,6 +13,7 @@ I'm passionate about machine learning, computer vision, and applied research. I 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tinkercad-006699?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ---
