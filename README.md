@@ -1,6 +1,7 @@
 ### Hi there, I'm Zhamshit Dinmukhammed 👋
 
 🎓 AI & Data Science Student
+
 I'm passionate about computer vision, machine learning, algorithms, and applied research. I enjoy building practical AI systems and designing UAV airframes, with a strong focus on implementing computer vision and autonomous agents into unmanned aerial vehicles and embedded robotic systems.
 
 ---
