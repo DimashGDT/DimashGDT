@@ -22,7 +22,7 @@ I'm passionate about computer vision, machine learning, algorithms, and applied 
 ### 📊 Core Interests & Research Areas
 * 👁️ **Computer Vision & Perception:** Utilizing object detection and vision models for real-time tracking in flight.
 * 🤖 **Autonomous Agents & LLMs:** Implementing intelligent agents and automated decision-making loops for robotics.
-* ✈️ **UAV Design & Aerospace:** Constructing custom airframes and integrating flight control hardware.
+* ✈️ **UAV Design & Aerospace:** Constructing custom airframes and integrating flight control hardware(SHAIQAS 2026 Finalist ).
 * 🧠 **Data-Driven Problem Solving:** Tackling algorithmic challenges and competitive programming (2025 ICPC 1/4 Finalist).
 
 ---
