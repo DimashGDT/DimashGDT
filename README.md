@@ -2,8 +2,8 @@
 
 #### 🚀 About Me
 * I'm an AI engineering student passionate about machine learning, deep learning, and applied research.
-* 🤖 I'm deeply interested in **Computer Vision** and its real-world applications in **robotics and embedded systems**.
-* 🧠 I also explore modern **LLMs, autonomous agents**, and building intelligent systems that bridge software and hardware.
+* 🤖 I'm deeply interested in **Computer Vision**, **LLMs, and autonomous agents** and their real-world applications in **robotics, UAVs, and embedded systems**.
+* ✈️ I am very passionate about aerospace engineering and intelligent flight systems.
 
 ---
 
@@ -21,8 +21,8 @@
 ---
 
 ### 📊 Core Interests & Research Areas
-* 👁️ **Computer Vision & Robotics:** Integrating vision models with embedded systems and robotic platforms.
-* 🤖 **AI & Autonomous Agents:** Working with Large Language Models, agentic workflows, and intelligent automation.
+* 👁️ **Computer Vision & Robotics:** Integrating vision models, object detection, and perception with embedded systems and UAVs.
+* 🤖 **LLMs & Autonomous Agents:** Building intelligent agents, reasoning loops, and automated workflows.
 * 🔬 **Machine Learning & Deep Learning:** Conducting applied research and developing data-driven architectures.
 * ⚙️ **Systems & Performance:** Writing efficient low-level and scripted logic using C/C++, Python, and Bash.
 
